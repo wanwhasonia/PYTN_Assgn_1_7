@@ -1,0 +1,7 @@
+Nama : Wanwha Sonia Putri Artha Soetjianto
+NO : PYTN-KS007-009
+
+ASSIGNMENT 1 (London Crime Rate Analysis 2008-2016)
+Tujuan Analisis yaitu mengetahui wilayah/kota beserta wilayah kepolisian yang harus ditingkatkan sistem keamananya
+
+link github : https://github.com/wanwhasonia/PYTN_Assgn_1_7.git
